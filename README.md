@@ -1,9 +1,6 @@
-ServerIntegrationOpenSSLTest![Java CI with Maven](https://github.com/moquette-io/moquette/workflows/Java%20CI%20with%20Maven/badge.svg?branch=main)
-
 ## Moquette Project
 
-[![Build Status](https://api.travis-ci.org/moquette-io/moquette.svg?branch=main)](https://travis-ci.org/moquette-io/moquette)
-
+* 直接跑io.moquette.broker.Server的話，要設定Run Configuration中的working directory為mosquette/broker
 * [Documentation reference guide](http://moquette-io.github.io/moquette/) Guide on how to use and configure Moquette
 * [Google Group](https://groups.google.com/forum/#!forum/moquette-mqtt) Google Group to participate in development discussions.
 
